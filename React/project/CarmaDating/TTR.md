@@ -12,7 +12,7 @@
 
 ## Лендинг 
 
-![](../CarmaDating/images/Landing.png)
+![](../CarmaDating/images/landing.png)
 
 1. Header
     * Плавный переход по нажатию на ссылку в меню;
