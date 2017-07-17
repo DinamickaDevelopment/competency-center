@@ -20,7 +20,7 @@
 
 ## Лендинг 
 
-![](../ttr_assets/Landing.png)
+![](../CarmaDating/images/Landing.png)
 
 1. Header
     * При нажатии на каждый элемент меню страница плавно прокручивается до соответствующего блока на странице. 
@@ -34,7 +34,7 @@
 
 ## Слайдеры новых пользователей и пользователей в сети
 
-![](../ttr_assets/MembersSection.png)
+![](../CarmaDating/images/MembersSection.png)
 
 * Создайте 2 слайдера по 6 слайдов в каждом c произвольным контентом
     * Примечание все персоны должны находится в одном масиве, реализуйте фильтрацию по свойству isOnline, что бы наполнить соответствующий слайдер
@@ -47,19 +47,19 @@
  
  ## Информационная секция
 
- ![](../ttr_assets/Info.png)
+ ![](../CarmaDating/images/Info.png)
 
  * У этого блока должен присутствовать еффект паралакса для фонового изображения.
 
  ## Блок "Happy Stories"
  
- ![](../ttr_assets/HappyStories.png)
+ ![](../CarmaDating/images/HappyStories.png)
 
  * При нажатии на кнопку "More stories", панели с историями должены меняться на следущий набор историй(наборов историй должно быть 3, итого 6 историй)
 
  ## Блок "Latest Blog"
 
-![](../ttr_assets/LatestBlog.png)
+![](../CarmaDating/images/LatestBlog.png)
 
 * Используя файл data.json, реализуйте следущую логику:
     * Одновременно на экране должно отображатся 3 поста
@@ -79,7 +79,7 @@ npm install react-addons-css-transition-group
 
 ## Блок "Join Us"
 
-![](../ttr_assets/JoinUs.png)
+![](../CarmaDating/images/JoinUs.png)
 
 * При нажатии на кнопу "Create an Account", должно отрыватся модальное окно с активированым табом Sign Up
 
@@ -87,7 +87,7 @@ npm install react-addons-css-transition-group
 
 ## Контактная форма
 
-![](../ttr_assets/ContactUs.png)
+![](../CarmaDating/images/ContactUs.png)
 
 * Должна присутствовать валидация для полей контактной формы:
     * Name:
@@ -101,7 +101,7 @@ npm install react-addons-css-transition-group
 
 ## Контактная форма
 
-![](../ttr_assets/Footer.png)
+![](../CarmaDating/images/Footer.png)
 
 * Ссылки должны плавно скролить к соответствующему блоку сайта.
 * Социальные кнопки должны вести на главную страницу соответствующей социальной сети.
